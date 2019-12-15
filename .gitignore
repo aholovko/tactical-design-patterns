@@ -1,0 +1,7 @@
+# IDE
+.idea/*
+.vscode/*
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
